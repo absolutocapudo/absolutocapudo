@@ -1,0 +1,10 @@
+# Sobre mim
+- :+1: Eu sou @mateus, tudo bem?
+- :+1: Meu email de contato é mateus.iajko@escola.pr.gov.br
+- :+1: Eu estou interessado em aprender novas linguagens
+- :+1: Eu estou aprendendo a programar recentemente a do JavaScript e Scratch
+
+<!---
+absolutocapudo/absolutocapudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
